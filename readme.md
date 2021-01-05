@@ -25,9 +25,9 @@ pyminitouch
 可能还有其它库
 
 
-## 运行
-如果前面的工作做好了就可以把模型跑起来了，这里再次声明这个模型还是试验性质的，水平很低，青铜人机都未必能打过。
-一、首先下载模型 你可以从[google云盘](https://drive.google.com/file/d/1HaDIMeVNixbGWViuBqvZr6uicyAUiyYT/view?usp=sharing) 下载模型，也可以百度网盘下载 
+## 运行训练好的模型
+如果前面的工作做好了就可以把模型跑起来了，这里声明这个经过训练的模型仅仅训练100多局，水平很低，青铜人机都未必能打过。  
+一、首先下载模型 你可以从[google云盘](https://drive.google.com/file/d/1HaDIMeVNixbGWViuBqvZr6uicyAUiyYT/view?usp=sharing) 下载训练过的模型，也可以百度网盘下载  
 链接：https://pan.baidu.com/s/1Bt7BXukDDCpc1aWFI2iKxg   
 提取码：5c1k  
 后放入weights文件夹下  
