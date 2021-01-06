@@ -10,6 +10,7 @@
 位置如图  
 ![scrcpy](image/scrcpy.png)  
 六、pyminitouch库运行时会自动安装minitouch。如果无法自动安装则需要手动安装[minitouch](https://github.com/openstf/minitouch) ，比较麻烦，如有困难请多多百度。  
+还有，minitouch不支持Android10  
 七、本人用的手机分辨率是1080*2160的，本代码并没有针对不同的手机做优化。不同的手机minitouch命令中所描述的位置会有差异，需要对代码做出相应调整，请务必注意。  
 八、注意游戏的布局，务必要一样。布局可参考B站视频或者我上传的训练用截图。如图。  
 ![布局图](image/85.jpg)  
