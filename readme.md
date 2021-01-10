@@ -33,7 +33,7 @@ pyminitouch
 提取码：5c1k  
 后放入weights文件夹下  
 二、先运行 “启动和结束进程.py” 启动scrcpy
-把“训练数据截取_A.py” 中的两项改成你的  
+把“训练数据截取_A.py” 中的两项改成你的，_DEVICE_ID 是 adb devices后显示的那个id  
 ![启动和结束进程.py](image/说明.png)  
 三、启动王者荣耀进入5v5人机对战    运行 “训练数据截取_A.py” 即可。
 ## 生成训练数据
