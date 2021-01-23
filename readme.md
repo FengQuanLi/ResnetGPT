@@ -68,7 +68,7 @@ pyminitouch
 
 3. 映射本地化计算说明：
 
-![layout_description](https://github.com/GuoyaoShen/ResnetGPT/blob/master/image/layout_description.PNG)
+![layout_description](image/layout_description.PNG)
 此计算以手机充电口朝右握持为例，反向握持同理可推。样例手机分辨率1080x2160。
 Android“指针位置”中显示的坐标信息以图中左上角红色原点所示，xy轴如图。此原点不论如何握持（充电口朝左或右），其始终保持在视野左上角，由重力感应判定。
 minitouch坐标原点如图中左下角蓝色原点所示，此点为物理固定点，不随手机握持方向改变，反向握持此点在右上角。
