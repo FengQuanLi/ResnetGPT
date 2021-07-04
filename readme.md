@@ -1,5 +1,7 @@
 # 基于pytorch框架用resnet101加GPT搭建AI玩王者荣耀
    本源码模型主要用了[SamLynnEvans Transformer](https://github.com/SamLynnEvans/Transformer) 的源码的解码部分。以及pytorch自带的预训练模型"resnet101-5d3b4d8f.pth"
+# 注意！！！ 
+本项目不再更新,由[用强化学习训练AI玩王者](https://github.com/FengQuanLi/WZCQ)代替。     
 
 # 注意运行本代码需要注意以下几点 注意！！！！！
 1、目前这个模型在用后裔100多局对战数据下训练出来后，对局表现出各种送人头之类的问题，以及代码本身各种不规范，请多原谅。  
